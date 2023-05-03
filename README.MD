@@ -10,4 +10,4 @@
 
 ## OBS
  Para verificar as alterações feitas nos arquivos antes de efetuar o pull
- é possível utilizar o comando  ´´´git fetch´´´ e após um ´´´git diff´´´.
+ é possível utilizar o comando  `git fetch` e após um `git diff `.
